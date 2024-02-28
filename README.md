@@ -1,16 +1,36 @@
-### Hi there 👋
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante de Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
-<!--
-**salomao07/salomao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+- 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
+- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
+- 💼 **Experiência Profissional**: Ensino Médio Tecnico em Infromática no Cotemig, auxiliar tecnico na area dea hardware e montagem de maquinas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- **Linguagens de Programação:** Java, Python, C#
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
+- **Banco de Dados:** MySQL, MongoDB
+- **Metodologias:** Scrum, Kanban
+- **Ferramentas:** Git, VS Code, Eclipse
+- *[Adicione outras habilidades relevantes]*
+
+## Projetos Destacados
+
+### [Nome do Projeto]
+
+Breve descrição do projeto e suas tecnologias principais.
+
+### [Nome do Projeto]
+
+Breve descrição do projeto e suas tecnologias principais.
+
+## Contribuições
+
+- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
+
+## Contato
+
+- **E-mail:** [Seu E-mail]
+- **Twitter:** [Seu Perfil no Twitter]
+- **LinkedIn:** [Seu Perfil no LinkedIn]
