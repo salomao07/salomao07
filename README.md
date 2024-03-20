@@ -23,3 +23,13 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>João Pedro Salomão</code>, tenho 18 anos, moro em BH e atualmente sou <code>Estudante</code> do curso de Engenharia de Software da, <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
+
+<div align="center">
+ ███████╗ █████╗ ██╗      ██████╗ ███╗   ███╗ █████╗  ██████╗ 
+██╔════╝██╔══██╗██║     ██╔═══██╗████╗ ████║██╔══██╗██╔═══██╗
+███████╗███████║██║     ██║   ██║██╔████╔██║███████║██║   ██║
+╚════██║██╔══██║██║     ██║   ██║██║╚██╔╝██║██╔══██║██║   ██║
+███████║██║  ██║███████╗╚██████╔╝██║ ╚═╝ ██║██║  ██║╚██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ 
+
+</div>
